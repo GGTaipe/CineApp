@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+//Ventana
 public class Ventana {
     private JPanel principal;
     private JComboBox cmbPeliculas;
